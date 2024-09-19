@@ -1,0 +1,1 @@
+{"config":{"lang":["en"],"separator":"[\\s\\-]+","pipeline":["stopWordFilter"]},"docs":[{"location":"","title":"My Home","text":""},{"location":"clinical_work/","title":"Clinical work","text":"<p>This is where an overview of my clinical work will go.</p>"},{"location":"research/","title":"Research","text":"<p>This is where an overview of my research will go. </p>"}]}
